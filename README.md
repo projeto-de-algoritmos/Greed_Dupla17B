@@ -8,20 +8,15 @@ Temas:
  - Greed
  - Final 
  
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
 # NomedoProjeto
 
-**Número da Lista**: X<br>
+**Número da Lista**: 3<br>
 **Conteúdo da Disciplina**: XXXXXXXXXX<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 17/0017885  |  Marcos Nery Borges Júnior |
 
 ## Sobre 
 Descreva os objetivos do seu projeto e como ele funciona. 
