@@ -17,7 +17,6 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
 ## Instalação 
 **Linguagem**: Python >= 3.8<br>
 **Framework**: Jupyter Notebook<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 
 O projeto foi feito através do Jupyter notebook, que reune em um só lugar todo o código e a explicação de cada uma das etapas. 
 
