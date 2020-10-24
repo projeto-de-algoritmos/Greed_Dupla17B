@@ -1,4 +1,4 @@
-# Greed_HuffmanFileCompress
+# Greed_InteractiveTutorial
 
 **Número da Lista**: 3<br>
 **Conteúdo da Disciplina**: Greed<br>
@@ -20,9 +20,10 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
 Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 
 O projeto foi feito através do Jupyter notebook, que reune em um só lugar todo o código e a explicação de cada uma das etapas. 
-Para executar/visualizar o notebook basta instalar o jupyter notebook na sua maquina através das instruções dispostas na seção "Getting started with the classic Jupyter Notebook" [aqui](https://jupyter.org/install). [Você também pode executar o jupyter notebook através do navegador](https://mybinder.org/v2/gh/ipython/ipython-in-depth/master?filepath=binder/Index.ipynb) (não recomendado) ou utilizar o docker (opção mais fácil), seguindo as instruções mais abaixo.
 
 Se desejar apenas visualizar o jupyter notebook, basta ver o arquivo [huffman_main.ipyn](https://github.com/projeto-de-algoritmos/Greed_HuffmanFileCompress/blob/master/huffman_main.ipynb) pelo próprio GitHub.
+
+Para executar/visualizar o notebook basta instalar o jupyter notebook na sua maquina através das instruções dispostas na seção "Getting started with the classic Jupyter Notebook" [aqui](https://jupyter.org/install). Se preferir, você também poderá utilizar o docker (opção mais fácil), seguindo as instruções mais abaixo.
 
 
 ## Instalação com Docker
